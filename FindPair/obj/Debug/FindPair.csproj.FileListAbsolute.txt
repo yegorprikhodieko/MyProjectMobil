@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\FindPair\FindPair\bin\Debug\FindPair.exe.config
+C:\Users\ACER\source\repos\FindPair\FindPair\bin\Debug\FindPair.exe
+C:\Users\ACER\source\repos\FindPair\FindPair\bin\Debug\FindPair.pdb
+C:\Users\ACER\source\repos\FindPair\FindPair\obj\Debug\FindPair.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\FindPair\FindPair\obj\Debug\FindPair.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\FindPair\FindPair\obj\Debug\FindPair.Form1.resources
+C:\Users\ACER\source\repos\FindPair\FindPair\obj\Debug\FindPair.Form2.resources
+C:\Users\ACER\source\repos\FindPair\FindPair\obj\Debug\FindPair.Properties.Resources.resources
+C:\Users\ACER\source\repos\FindPair\FindPair\obj\Debug\FindPair.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\FindPair\FindPair\obj\Debug\FindPair.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\FindPair\FindPair\obj\Debug\FindPair.exe
+C:\Users\ACER\source\repos\FindPair\FindPair\obj\Debug\FindPair.pdb
